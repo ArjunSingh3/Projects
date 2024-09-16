@@ -9,4 +9,5 @@ This repo also has projects in the following areas:
 3. Computer Systems -> Built a Ring doorbell system on a Rasberry PI in C using Multithreading
 4. Machine Learning -> AI Algorithms to Convolutional Neural Networks and AI Chatbots.
 5. Full Stack Development -> Built a Finance Dashboard to trade stocks in real time. Link:https://financial-dashboard-exu6.onrender.com
-   
+
+Linkedin -> https://www.linkedin.com/in/arjun-singh3/   
